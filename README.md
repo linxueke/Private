@@ -1,2 +1,2 @@
-# 雪柯的工作汇报
-始于2018.7.6
+# Work report of Xueke
+It began on July 16th, 2018
