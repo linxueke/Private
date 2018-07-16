@@ -1,4 +1,4 @@
-#Work report 
+# Work report 
 date: July 16th, 2018
 ## 1、Extract RNA sample for sequencing.
   Sample ID: DT-LB-45-1, XM-LB-25-5,
