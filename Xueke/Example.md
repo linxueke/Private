@@ -1,5 +1,5 @@
 # Work report 
-Date: July 16th, 2018
+### Date: July 16th, 2018
 ## 1、Extract RNA sample for sequencing.
 ### Time: 8:30 a.m. - 0:30 p.m.
   Sample ID: DT-LB-45-1, XM-LB-25-5, LS-LB-37-6, DT-LB-45-7  
